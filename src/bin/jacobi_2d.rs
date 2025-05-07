@@ -1,4 +1,4 @@
-#![feature(min_const_generics)]
+//#![feature(min_const_generics)]
 
 use polybench_rs::stencils::jacobi_2d::bench;
 

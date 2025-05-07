@@ -1,4 +1,4 @@
-#![feature(min_const_generics)]
+//#![feature(min_const_generics)]
 
 pub mod datamining;
 pub mod linear_algebra;
